@@ -1,0 +1,150 @@
+.kerala{
+    font-size: medium;
+    color: white;
+}
+
+.tvpm
+{
+    background-image: url(pathma1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .tvpm1
+{
+    background-image: url(magicplanet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.kollam
+{
+    background-image: url(kollamdist1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .kollam1
+{
+    background-image: url(thangassery.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.pathnm
+{
+    background-image: url(konni.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .pathnm1
+{
+    background-image: url(perunthen.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+.alpy
+{
+    background-image: url(alappuzha-beach.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.tem
+{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+    scroll-behavior: smooth;
+}
+p{
+    margin-top: 5%;
+}
+.center {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .alpy1
+{
+    background-image: url(alleppey-backwater.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    background-position: center;
+    background-attachment: fixed;
+}
